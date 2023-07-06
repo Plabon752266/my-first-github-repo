@@ -1,0 +1,24 @@
+label{
+    display: block;
+    margin-bottom: 10px;
+    padding: auto;
+}
+#pitha{
+    height: 50px;
+    width:300px
+    
+
+}
+
+
+
+
+
+footer{
+    color: chocolate;
+    stroke: aqua;
+    text-align: center;
+    text-transform: lowercase;
+    padding: 2px;
+    
+}
