@@ -5,10 +5,28 @@
 .menu-container{
     background-color: black;
     padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 .logo-photo{
     width:120px;
 }
+.menue{
+    color: white;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+    margin: 20px;
+    padding-right: 7px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.item:hover{
+    color: crimson;
 
+}
 
     
